@@ -5,3 +5,12 @@ seaborn
 scikit-learn
 openpyxl
 statsmodels
+lxml 
+selectolax 
+scrapy 
+playwright 
+curl_cffi 
+aiohttp
+playwright
+crawl4ai
+requests
